@@ -4,14 +4,14 @@
 }
 
 body {
-    background-image: url('/Ressource/Image/Menu.png');
+    background-image: url('Ressource/Image/Menu.png');
 }
 
 .pos{
     padding-top: 50px;
     font-family: 'Milks';
     font-size: small;
-    color:#00a5a5;   
+    color:#00a5a5;
 }
 
 .point{
@@ -27,4 +27,20 @@ body {
     font-family: 'Milks';
     font-size: small;
     color:#ffdb58;  
+}
+.youtube{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #00a5a5;
+    font-size: small;
+    font-family: 'Milks';
+}
+.Menu{
+    color:#00a5a5;
+    font-size: small;
+    font-family: 'Milks';
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
 }

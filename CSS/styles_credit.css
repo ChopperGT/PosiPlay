@@ -4,18 +4,17 @@
 }
 
 body {
-    background-image: url('/Ressource/Image/Menu.png');
+    background-image: url('Ressource/Image/Crédit.jpg');
 }
 
 .pos{
     padding-top: 50px;
     font-family: 'Milks';
-    font-size: small;
     color:#00a5a5;  
 }
 
 .pos1{
-    padding-top: 50px;
+    padding-top: 10px;
     padding-left: 10px;
     font-family: 'Milks';
     font-size: small;
@@ -38,4 +37,13 @@ body {
 
 .point{
     color: #00a5a5; 
+}
+
+.Menu{
+    color:#00a5a5;
+    font-size: small;
+    font-family: 'Milks';
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
 }

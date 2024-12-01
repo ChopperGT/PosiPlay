@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Milks';
+    src: url('Ressource/Police/tt-milks-casual-pie-base.ttf');
+}
+
+body {
+    background-image: url('Ressource/Image/Jeu.jpg');
+}
+
+.titre{
+    padding-top: 50px;
+    font-family: 'Milks';
+    color:#00a5a5;  
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffdb58;
+    font-size: small;
+    font-family: 'Milks';
+}
+
+.recadreg{
+    padding-right: 25px;
+}
+
+.recadred{
+    padding-right: 10px;
+}
+
+
+.Menu{
+    color:#00a5a5;
+    font-size: small;
+    font-family: 'Milks';
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
